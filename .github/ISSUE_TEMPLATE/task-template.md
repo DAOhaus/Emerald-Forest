@@ -13,6 +13,8 @@ assignees: ''
 
 ## Bid: 
 
+## Crew Size:
+
 ## Notes:
 
 ## Photos:
