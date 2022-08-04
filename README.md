@@ -3,7 +3,9 @@ Project management for landscaping
 
 # Roles
 Labor
+
 Bid
+
 Field Manager
 
 # Proccesses:
