@@ -1,12 +1,9 @@
-# LeafItToMe
-Project management for landscaping
+# Tiny House Install
+Building and incentivizing the construction of a tiny house in the Emerald Forest located in Seattle, WA, USA
+
 
 # Roles
 Labor
+Skilled Tasks
+Ongoing Support
 
-Bid
-
-Field Manager
-
-# Proccesses:
-Each morning crew report previous day & plan current day
